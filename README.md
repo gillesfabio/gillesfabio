@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm Gilles, senior backend/DX engineer (Go, Rust, Swift).
+I'm Gilles, senior backend/DX engineer.
